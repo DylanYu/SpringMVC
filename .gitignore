@@ -1,0 +1,9 @@
+.classpath
+.project
+build*
+*.swp
+
+.externalToolBuilders/
+.settings/
+bin/
+
